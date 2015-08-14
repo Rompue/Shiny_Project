@@ -1,0 +1,8 @@
+name: Shinyproject
+account: rompue
+server: shinyapps.io
+bundleId: 239491
+url: https://rompue.shinyapps.io/Shinyproject
+when: 1439540038.64744
+asMultiple: FALSE
+asStatic: FALSE
